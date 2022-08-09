@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Naman Madharia
+- Working in PARKAR DIGITAL as a PYTHON developer.
 - 👀 I’m interested in python, c++, developement and HPC.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
