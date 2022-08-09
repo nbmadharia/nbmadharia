@@ -4,12 +4,7 @@
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me nbmadharia@gmail.com
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nbmadharia&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nbmadharia&repo=convoychat" />
-</a>
+
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbmadharia&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbmadharia)](https://github.com/anuraghazra/github-readme-stats)
