@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me nbmadharia@gmail.com
+-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbmadharia)](https://github.com/anuraghazra/github-readme-stats)
+
 - Open to work. Find my resume here https://drive.google.com/file/d/1RVvB4YbqTN5jPoTNd7JaTVF01gq1XZ_H/view?usp=sharing
 
 <!---
