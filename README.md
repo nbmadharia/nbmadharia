@@ -7,6 +7,7 @@
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbmadharia&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbmadharia)](https://github.com/anuraghazra/github-readme-stats)
 
 - Open to work. Find my resume here https://drive.google.com/file/d/1RVvB4YbqTN5jPoTNd7JaTVF01gq1XZ_H/view?usp=sharing
 
