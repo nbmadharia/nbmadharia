@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Naman Madharia
-- Working in PARKAR DIGITAL as a PYTHON developer.
-- 👀 I’m interested in python, c++, developement and HPC.
+- Working in TIBCO Software as Data Engineer.
+- 👀 I’m interested in Java, c++, software developement and HPC.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me nbmadharia@gmail.com
+- 📫 How to reach me naman.madharia@outlook.com
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbmadharia&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
